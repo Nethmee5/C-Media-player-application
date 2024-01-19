@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>Icons/4a8dab6a89bb45ee9894fe3fcf9968bb.png</file>
+        <file>Icons/icons8-click-24.png</file>
+        <file>Icons/icons8-folder-48.png</file>
+        <file>Icons/icons8-next-30.png</file>
+        <file>Icons/icons8-pause-30.png</file>
+        <file>Icons/icons8-play-30.png</file>
+        <file>Icons/icons8-previous-30.png</file>
+        <file>Icons/icons8-skip-64.png</file>
+        <file>Icons/icons8-stop-30.png</file>
+        <file>Icons/index.jpg</file>
+    </qresource>
+</RCC>

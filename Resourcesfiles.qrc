@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>Icons/deck.jpg</file>
+        <file>Icons/icons8-click-24.png</file>
+        <file>Icons/icons8-folder-48.png</file>
+        <file>Icons/icons8-pause-30.png</file>
+        <file>Icons/icons8-play-30.png</file>
+        <file>Icons/icons8-skip-64.png</file>
+        <file>Icons/icons8-stop-30.png</file>
+        <file>Icons/sunny-defocused-green-nature-background-abstract-bokeh-effect-es-element-your-design_211682-265.webp</file>
+    </qresource>
+</RCC>
